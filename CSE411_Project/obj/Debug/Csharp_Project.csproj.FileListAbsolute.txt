@@ -1,0 +1,76 @@
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\bin\Debug\Csharp_Project.exe.config
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\bin\Debug\Csharp_Project.exe
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\bin\Debug\Csharp_Project.pdb
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.csprojResolveAssemblyReference.cache
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_LOGIN.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.Properties.Resources.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.csproj.GenerateResource.Cache
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.exe
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.pdb
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_HOME.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_NEW_PRODUCT.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_PRODUCT.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_UPDATE_PRODUCT.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_CATEGORIES.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_CUSTOMER.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_ORDER.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_QUANTITY.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_PRODUCTS_IN_CATEGORY.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_USER.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\bin\Debug\itextsharp.dll
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\bin\Debug\itextsharp.xml
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_ADD_NEW_CATEGORIE.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_CUSTOMER_ORDERS.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_NEW_CUSTOMER.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_NEW_USER.resources
+C:\Users\samsng\Desktop\Projects\c#\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_ALL_ORDERS.resources
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\bin\Debug\Csharp_Project.exe.config
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.exe
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.pdb
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\bin\Debug\Csharp_Project.exe
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\bin\Debug\Csharp_Project.pdb
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\bin\Debug\itextsharp.xml
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.csprojResolveAssemblyReference.cache
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_ADD_NEW_CATEGORIE.resources
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_ALL_ORDERS.resources
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_CUSTOMER_ORDERS.resources
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_HOME.resources
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_LOGIN.resources
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_CATEGORIES.resources
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_CUSTOMER.resources
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_ORDER.resources
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_PRODUCT.resources
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_USER.resources
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_NEW_CUSTOMER.resources
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_NEW_PRODUCT.resources
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_NEW_USER.resources
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_PRODUCTS_IN_CATEGORY.resources
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_QUANTITY.resources
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_UPDATE_PRODUCT.resources
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.Properties.Resources.resources
+C:\Users\Md. Mohiuddin Ahmed\Desktop\Csharp_inventory_management_system_1_1\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.csproj.GenerateResource.Cache
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\bin\Debug\Csharp_Project.exe.config
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.exe
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.pdb
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\bin\Debug\Csharp_Project.exe
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\bin\Debug\Csharp_Project.pdb
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\bin\Debug\itextsharp.xml
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.csprojResolveAssemblyReference.cache
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_ADD_NEW_CATEGORIE.resources
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_ALL_ORDERS.resources
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_CUSTOMER_ORDERS.resources
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_HOME.resources
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_LOGIN.resources
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_CATEGORIES.resources
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_CUSTOMER.resources
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_ORDER.resources
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_PRODUCT.resources
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_MANAGE_USER.resources
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_NEW_CUSTOMER.resources
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_NEW_PRODUCT.resources
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_NEW_USER.resources
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_PRODUCTS_IN_CATEGORY.resources
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_QUANTITY.resources
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.FORM_UPDATE_PRODUCT.resources
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.Properties.Resources.resources
+F:\Github_Sumon\asp.net\Project\CSE411-project\Csharp_Project\Csharp_Project\obj\Debug\Csharp_Project.csproj.GenerateResource.Cache
